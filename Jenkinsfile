@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Clarusway_Way to Reinvent Yourself'
                 sh 'python3 --version'
-                sh 'ls'
+                sh 'll'
                 sh 'python3 pipeline.py'
             }
         }
